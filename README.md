@@ -1,5 +1,4 @@
-
-# DawaCare - Smart_Pharmacy_Management_System
+# DawaCare - Smart Pharmacy Management System
 
 A pharmacy management dashboard built with semantic HTML, Tailwind CSS, vanilla JavaScript, Vite, and SQL schema files. The browser demo uses `localStorage` for persistence; SQL is provided in `database/schema.sql` for connecting a future backend.
 
@@ -51,3 +50,4 @@ To restore the seeded demo data, open the browser developer tools and run:
 
 ```js
 localStorage.clear(); location.reload();
+```
